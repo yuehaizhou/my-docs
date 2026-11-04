@@ -1,8 +1,8 @@
-site_name: ÎÒµÄ¼¼ÊõÎÄµµ
+site_name: æˆ‘çš„æŠ€æœ¯æ–‡æ¡£
 theme:
   name: material
 nav:
-  - Ê×Ò³: index.md
-  - ¹ØÓÚ: about.md
-  - Ö¸ÄÏ: guide.md
+  - é¦–é¡µ: index.md
+  - å…³äº: about.md
+  - æŒ‡å—: guide.md
   - API: api.md
